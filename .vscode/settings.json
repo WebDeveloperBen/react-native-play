@@ -1,0 +1,10 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#511B25",
+        "titleBar.activeBackground": "#722634",
+        "titleBar.activeForeground": "#FEFBFC"
+    },
+    "cSpell.words": [
+        "Pressable"
+    ]
+}
